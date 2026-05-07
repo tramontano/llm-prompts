@@ -1,6 +1,6 @@
 # AI Prompts Repository
 
-[English](#-en-us) | [Português](#-pt-br)
+[English](#en-us) | [Português](#pt-br)
 
 ---
 
