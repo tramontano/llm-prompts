@@ -1,10 +1,10 @@
 # AI Prompts Repository
 
-[🇺🇸 English](#-en-us) | [🇧🇷 Português](#-pt-br)
+[English](#-en-us) | [Português](#-pt-br)
 
 ---
 
-# 🇺🇸 EN-US
+# EN-US
 
 ## Overview
 
@@ -236,7 +236,7 @@ Use prompts as:
 
 ---
 
-# 🇧🇷 PT-BR
+# PT-BR
 
 ## Visão Geral
 
